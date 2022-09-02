@@ -3,6 +3,12 @@
 
 ## 📦  Install command
 
+```shell
+$ cd server
+$ yarn install
+$ node src/index.js
+```
+
 ## 🚀  Usage command
 
 ### MongoDB

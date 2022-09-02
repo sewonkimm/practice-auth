@@ -10,15 +10,22 @@
 
 > Repository for practice Login & Sign up(Authorization, Authentication)
 
-## 1. 회원 가입 구현
+### 📘 [Project documentation](ready...)
+
+
+## 요구사항
+
+사용자는 계정을 만들고, 로그인하고, 로그아웃 할 수 있다.
+### 1. 회원 가입 구현
 
 - DB에 아이디와 비밀번호 저장
 
-## 2. 로그인 구현
+### 2. 로그인 구현
 
 - 서버에 전달한 아이디와 비밀번호가 DB와 일치하면 로그인
 
----
+
+
 ## 개발 환경
 
 ```markdown
@@ -30,15 +37,13 @@
 
 ```
 
----
+
+
 ## 개선점
 
 - 보안 이슈 👉  비밀번호가 공개되면 안된다!
 - v2에서는 암호화를 해본다.
 
-
-
-### 📘 [Project documentation](ready...)
 
 
 ## Author

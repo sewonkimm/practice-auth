@@ -1,0 +1,11 @@
+{
+  "name": "practice-auth-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sewonkimm/practice-auth.git",
+  "author": "SeWonKim <swon962@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
