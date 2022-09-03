@@ -6,16 +6,21 @@
 ```shell
 $ cd server
 $ yarn install
-$ node src/index.js
 ```
 
 ## 🚀  Usage command
 
 ### MongoDB
 
-1. 몽고DB 서비스 실행하기
+1. 몽고DB 서비스 실행
 
 ```shell
 $ brew services start mongodb/brew/mongodb-community@4.4
+```
+
+2. server 실행
+
+```shell
+yarn run dev
 ```
 

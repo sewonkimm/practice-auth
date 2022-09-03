@@ -6,6 +6,10 @@
   "author": "SeWonKim <swon962@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
   }
 }
